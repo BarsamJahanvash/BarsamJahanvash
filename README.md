@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Barsam@Jahanvash.com**
 
-- ⚡ Fun fact **I'm Not Fat! I'm Jst Easy To See.😋😊**
+- ⚡ Fun fact **I'm Not Fat! I'm Just Easy To See.😋😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
