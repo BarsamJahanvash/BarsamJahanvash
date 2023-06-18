@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Barsam Jahanvash</h1>
 <h3 align="center">A Software Developer From Iran</h3>
 
-- 🔭 I’m currently working on **FootBall Player Tracker**
-
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **FLA App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BarsamJahanvash/](https://github.com/BarsamJahanvash/)
 
